@@ -1,0 +1,11 @@
+python evaluate.py \
+    --model="gpt-4-turbo" \
+    --target_language="Afrikaans" \
+    --test_dataset="data/en-af/expert_dataset.csv" \
+    --eval_mode="lexical_rules" \
+    --lexical_rules="lexical_rules/gpt-4-turbo-afrikaans.csv" \
+    --out_file="results/afrikaans_gpt-4-turbo_predictions.csv" \
+    --results_file="data/en-af/results.csv" \
+    --results_file_column="GPT4" \
+    --shuffle_order \
+    --max_retries=2

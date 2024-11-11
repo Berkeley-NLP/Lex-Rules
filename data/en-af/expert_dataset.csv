@@ -1,0 +1,181 @@
+concept,source language text,target language text,variations,label
+see,What a lovely heart line. I've never seen one like it.,"Wat 'n pragtige hartlyn, ek het nog nie so een gesien nie","['gesien', 'kyk', 'sien']",gesien
+see,"Mozart, did you see Martin?","- Mozart, het jy vir Martin gesien?","['gesien', 'kyk', 'sien']",gesien
+see,Now you'll see a fragment of his film titled:,Nou kyk ons na 'n fragment van sy:,"['gesien', 'kyk', 'sien']",kyk
+see,You gotta see this.,Kom kyk.,"['gesien', 'kyk', 'sien']",kyk
+see,I am lucky that the emperor doesn't see me in these clothes.,Ek is gelukkig dat die keiser my nie sien in hierdie klere nie,"['gesien', 'kyk', 'sien']",sien
+see,"You see, it was all the fault of the champagne!","Jy sien, dit alles was sjampanje se skuld!","['gesien', 'kyk', 'sien']",sien
+see,I can see you're not one of those perfumed prancers in there.,Ek kan sien u is baie anders as die geparfumeerde pronkers daar binne,"['gesien', 'kyk', 'sien']",sien
+see,Lawyers see worse things than writers can invent.,Prokureurs sien slegter dinge as wat skrywers kan uitdink,"['gesien', 'kyk', 'sien']",sien
+see,"See you soon, and thanks a lot.","Sien julle weer, en baie dankie","['gesien', 'kyk', 'sien']",sien
+see,"See you tomorrow, then.",Sien jou dan more.,"['gesien', 'kyk', 'sien']",sien
+see,I saw you've had the roof redone.,Ek sien Ma het die dak laat oordoen,"['gesien', 'kyk', 'sien']",sien
+see,"Child, she can't see.","Kind, sy kan nie sien nie","['gesien', 'kyk', 'sien']",sien
+tell,Tell the principal that your mother came but that with the panic she wasn't able to see him. And with her job...,"Sê vir die hoof, jou ma was hier, maar met al die chaos, kon sy hom nie sien nie","['gesê/sê', 'vertel']",gesê/sê
+tell,"I told you, didn't I?","Ek het mos gesê, het ek nie?","['gesê/sê', 'vertel']",gesê/sê
+tell,I pay you to do what I tell you.,Ek betaal jou om te doen wat ek jou sê om te doen.,"['gesê/sê', 'vertel']",gesê/sê
+tell,Thanks for telling us. Just enough time left for us to leave your house.,"Dankie dat jy ons vertel het, daar is net genoeg tyd vir ons om jou huis te verlaat","['gesê/sê', 'vertel']",vertel
+tell,Is there some family secret that prevents you from telling me the truth?,Is daar 'n familiegeheim wat jou verhoed om my die waarheid te vertel?,"['gesê/sê', 'vertel']",vertel
+tell,"Now, will you please tell me everything in fullest detail without suppressing anything while I make notes!","Vertel my nou die hele saak haarfyn, moet niks terughou nie. terwyl ek notas maak.","['gesê/sê', 'vertel']",vertel
+tell,-I can't tell you.,Ek kan jou nie vertel nie,"['gesê/sê', 'vertel']",vertel
+tell,Should we tell him?,Moet ons hom vertel?,"['gesê/sê', 'vertel']",vertel
+tell,"You tell me your darkest, most unmentionable secret and I'll tell you mine.","Jy vertel my jou diepste geheim, en ek vertel jou myne","['gesê/sê', 'vertel']",vertel
+tell,Why didn't you tell me?,Waarom het jy my nie vertel nie?,"['gesê/sê', 'vertel']",vertel
+tell,Monika will tell you about her husband.,Monika sal jou vertel van haar man,"['gesê/sê', 'vertel']",vertel
+too,"And me, too!",En ek ook!,"['ook', 'te']",ook
+too,"I would have wanted it different, too.",Ek wou dit ook graag anders hê.,"['ook', 'te']",ook
+too,I'm doing that too.,Ek doen dit ook,"['ook', 'te']",ook
+too,"And your audience knows it, too.",En jou gehoor weet dit ook,"['ook', 'te']",ook
+too,At that moment Jesus himself wonders that too.,Jesus self het op daardie moment ook die vraag gevra,"['ook', 'te']",ook
+too,"Tell every agent to get to the safe house; FBI, too.","Stuur elke agent na die schuiladres, ook die FBI.","['ook', 'te']",ook
+too,Maybe I'm interested too.,Miskien wil ek ook aansluit,"['ook', 'te']",ook
+too,Nothing wil be too magnificent for the wife of an artist famed throughout Europe.,Niks gaan te uitspattig wees vir die vrou van 'n kunstenaar wat beroemd is in geheel Europa,"['ook', 'te']",te
+too,"""If I don't get my sailboat soon, it will be too late.","""As ek nie gou my seilboot kry nie, sal dit te laat wees.","['ook', 'te']",te
+too,"Mathieu, don't worry too much. If Mondain is not guilty this time, he would have been another time anyway.","Mathieu, moet jouself nie te veel bekommer nie, as hy nie skuldig is nie, sal hy volgende keer tog wees","['ook', 'te']",te
+too,Just too short-lived.,Net te kort,"['ook', 'te']",te
+too,"When their parents go to the city on Thursdays they lie naked on the yellow bedspread in their parents' bedroom to try to get a suntan, because they think they're too pale.","As hulle ouers Donderdae na die stad gaan dan lê hulle kaal op die geel beddeken in hulle ouers se kamer om bietjie te sonbaai, omdat hulle dink hulle is te bleek","['ook', 'te']",te
+time,And I promise you a boy this time. Are you happy now?,En ek belowe 'n seuntjie hierdie keer is u nou gelukkig?,"['keer', 'maal', 'tyd']",keer
+time,- 7 times 9?,- 7 maal 9?,"['keer', 'maal', 'tyd']",maal
+time,But for a very long time.,Maar vir 'n baie lank tyd,"['keer', 'maal', 'tyd']",tyd
+time,- There's no time to lose.,- Daar's doen geen tyd om te verloor nie.,"['keer', 'maal', 'tyd']",tyd
+time,- I don't have the time.,- Ek het nie die tyd nie,"['keer', 'maal', 'tyd']",tyd
+time,"""It's high time to become who you are.""","""Dis hoog tyd om te word wie jy is""","['keer', 'maal', 'tyd']",tyd
+time,5:00. Time to start. Good luck everybody!,"Vyf uur; tyd om te begin Geniet die spel, almal!","['keer', 'maal', 'tyd']",tyd
+time,"... ""a thousand years of peace kingdom."" ""Call in the time when the spirits freed ""- ""out of selfishness twiny bands. """,'n Duisendjarige vrederyk wag in die tyd as die geeste bevry word van die greep van selfsugtigheid!,"['keer', 'maal', 'tyd']",tyd
+time,It's time to order now.,Dis tyd om kole te bestel,"['keer', 'maal', 'tyd']",tyd
+time,It's a bad time.,Dis 'n slegte tyd,"['keer', 'maal', 'tyd']",tyd
+look,Look at him.,Kyk na hom,"['kyk', 'lyk', 'soek']",kyk
+look,Look there...,"Kyk daar, die middelpunt van die meule","['kyk', 'lyk', 'soek']",kyk
+look,Look at that.,Kyk daar.,"['kyk', 'lyk', 'soek']",kyk
+look,Look - she is graceful like a Swan Princess.,Kyk - sy's so grasieus soos 'n swaanprinses,"['kyk', 'lyk', 'soek']",kyk
+look,"Look, it's called Zecuk.","Kyk, hulle noem hom ""Zecuk"".","['kyk', 'lyk', 'soek']",kyk
+look,What's that look for?,Wat kyk jy?,"['kyk', 'lyk', 'soek']",kyk
+look,I can look after him tonight.,Ek sal na hom kyk,"['kyk', 'lyk', 'soek']",kyk
+look,And now look at what 30 bucks can get you.,Kyk wat jy nou vir 30 dollar het.,"['kyk', 'lyk', 'soek']",kyk
+look,"I just want to bring him in, look him in the eye and figure out what the hell went wrong.",Ek wil hom optel en in die oë kyk en uitvind wat daar verdorie verkeerd geloop het.,"['kyk', 'lyk', 'soek']",kyk
+look,"Birkut, look lively and happy!","Birkut, lyk lewendig en gelukkig!","['kyk', 'lyk', 'soek']",lyk
+look,"Look at you, Soldier Klee!",Jy lyk ellendig!,"['kyk', 'lyk', 'soek']",lyk
+look,What exactly am I looking for?,Waar moet ek na soek? Verleiding.,"['kyk', 'lyk', 'soek']",soek
+mother,Your mother will explain.,Jou ma sal verduidelik,"['ma', 'moeder']",ma
+mother,Were you watching your own mother ?,Staan jy en kyk na jou eie ma?,"['ma', 'moeder']",ma
+mother,"In any case, my mother's happy when I eat, so...","Nouja, my ma was bly as ek my kos eet, so...","['ma', 'moeder']",ma
+mother,Same for Gaudinier who doesn't seem too affected... ..by his mother's disciplinary measures.,"En Gaudinier ook, hy lyk nie baie jammer nie lyk nie of sy ma se straf hom pla nie","['ma', 'moeder']",ma
+mother,That's where his mother was a cleaning lady.,Dis dan waar sy ma gewerk het,"['ma', 'moeder']",ma
+mother,- How is your mother?,Hoe gaan dit met jou ma?,"['ma', 'moeder']",ma
+mother,"I don't care about my mother -What did she do, tell me!",Ek gee niks om vir my ma nie,"['ma', 'moeder']",ma
+mother,"Yes, I was born in Hungary. My mother was Polish. My father was Russian.","Ja, ek is gebore in Hongarye, my moeder was Pools, my vader was Russies my ouma was Sweeds, 'n oom van my was selfs 'n Eskimo!","['ma', 'moeder']",moeder
+because,I hope everybody agree because we didn't choose Ludovika.,"Ek hoop almal stem in, omdat ons nie Ludovika gekies het nie","['omdat', 'want']",omdat
+because,I'll keep quiet because I promised... But I must ask you not to tell a soul that I'm privy to all this.,"Ek sal stilbly omdat ek beloof het, maar julle mag nie sê dat ek aandadig is nie","['omdat', 'want']",omdat
+because,"But there is one thing they don't count, maybe because even bureaucrats find it painful, and that's suicides.","Maar daar is een ding wat hulle nie tel nie, miskien omdat selfs burokrate dit pynlik vind, en dit is selfmoorde.","['omdat', 'want']",omdat
+because,Just because I danced in Scala Revue I do not need to be without morals.,"Net omdat ek gedans het in die Scala Revue, beteken nie dat ek nie moraliteit het nie","['omdat', 'want']",omdat
+because,"No, the English want to wage war against us, because we're Dutch.","Nee, die Engelse wil met ons oorlog voer omdat ons Nederlanders is,","['omdat', 'want']",omdat
+because,-Because they're afraid.,Omdat hulle bang is,"['omdat', 'want']",omdat
+because,Then I got up and left the cello because I was trembling.,"Toe het ek opgestaan en die tjello gelos, want ek het gebewe","['omdat', 'want']",want
+because,"Because he knew what the ecstatic crowd wasn't aware of, and that can be read in the books. ""","Want hy het reeds geweet wat die ekstatiese massa nie weet nie. en dit kan in die boeke gelees word.""","['omdat', 'want']",want
+because,"I'll be brief, because the crowd is pushing.","Ek sal kort wees, want die skare druk op","['omdat', 'want']",want
+because,"For you, for them, for Poles. Because they can't see it. They don't have a nose for it.","Vir jou, vir hulle, vir Pole, want hulle kan dit nie sien nie, hulle het nie 'n neus daarvoor nie","['omdat', 'want']",want
+because,Because I want to write stories.,Want ek het gesê ek gaan stories skryf,"['omdat', 'want']",want
+father,"- Impossible, he isn't your father.","Onmoontlik, hy is nie jou pa nie","['pa', 'vader']",pa
+father,He's probably with his father's chippy.,Hy's dalk by sy pa se wyfie.,"['pa', 'vader']",pa
+father,"If you had told me my father's name, I could have tried to find him.","As ma my Pa se naam aan my gegee het, kon ek hom probeer opspoor","['pa', 'vader']",pa
+father,Patrick's not much but he's a father.,"Patrick is nie veel nie, maar hy's darem sy pa","['pa', 'vader']",pa
+father,"If a father can't pray with faith for his child, miracles do not happen.","As 'n Vader nie met geloof kan bid vir sy kind nie, sal wonders nie gebeur nie","['pa', 'vader']",vader
+father,Just as I loved my father and my mother and Tali.,"Net soos van my vader, moeder en Tali.","['pa', 'vader']",vader
+father,I let my father die because I trusted him.,Ek het my vader doodgaan omdat ek hom vertrou.,"['pa', 'vader']",vader
+father,Your father did and he died!,"Jou vader het, en hy het gesterf!","['pa', 'vader']",vader
+other,The father of Count Batthyani was executed with 13 other generals after the suppression of the rebellion.,Die vader van Graaf Batthyani is tereggestel saam met 13 ander generaals na die onderdrukking van die rebellie,"['ander', 'mekaar']",ander
+other,I have heard that the Hungarians can celebrate better than any other nation.,Ek het gehoor dat die Hongare beter kan feesvier as enige ander volk,"['ander', 'mekaar']",ander
+other,"We need merely follow. That way, we will take the other fellow and the child unawares.",So sal ons die ander een en die kind onverhoeds betrap,"['ander', 'mekaar']",ander
+other,A slivovitz like this makes another man of me But why shouldn't the other man have a slivovitz too?,"Wonderlik, 'n slivovitz maak my 'n ander mens!","['ander', 'mekaar']",ander
+other,Lady Eboshi and the men are coming from the other side.,Lady Eboshi en die manne kom uit die ander kant.,"['ander', 'mekaar']",ander
+other,You have to decide whether to trust your own eyes and ears or what other people say.,"Jy moet besluit om jou eie oë en ore te glo, of wat ander mense sê","['ander', 'mekaar']",ander
+other,You don't always have to believe what other people say.,Jy moet nie altyd alles glo wat ander mense sê nie,"['ander', 'mekaar']",ander
+other,- But we'll see each other soon?,- Maar ons gaan mekaar weer sien?,"['ander', 'mekaar']",mekaar
+other,"Mom loved him, you know? They loved each other.","Mamma was lief vir hom, hulle was lief vir mekaar","['ander', 'mekaar']",mekaar
+other,"""You and I love each other.","""Ek en jy was lief vir mekaar,","['ander', 'mekaar']",mekaar
+other,"- Like a dialogue, facing each other.","Soos 'n dialoog, teenoor mekaar","['ander', 'mekaar']",mekaar
+other,OK... But at some point... people recognise each other.,Dis reg... maar op 'n sekere punt... herken mense mekaar,"['ander', 'mekaar']",mekaar
+mean,"- What do you mean, you were right?",- Wat bedoel jy?,"['bedoel', 'beteken']",bedoel
+mean,You get what I mean?,Jy weet wat ek bedoel?,"['bedoel', 'beteken']",bedoel
+mean,I mean in general,Ek bedoel in die algemeen,"['bedoel', 'beteken']",bedoel
+mean,"Well, I mean...","Wel, ek bedoel...","['bedoel', 'beteken']",bedoel
+mean,"Like ""You are ugly"" when actually you mean to say ""You are beautiful""","Jy sê: ""Jy is nie te lelik nie"" as jy bedoel ""Jy is mooi"".","['bedoel', 'beteken']",bedoel
+mean,I mean - off.,Ek bedoel... weg is jy!,"['bedoel', 'beteken']",bedoel
+mean,You mean I need an operation because my own emotions...,"Bedoel jy ek het 'n operasie nodig, want my emosies...","['bedoel', 'beteken']",bedoel
+mean,-You mean you are.,Jy bedoel dat jy besorgd is,"['bedoel', 'beteken']",bedoel
+mean,You know what this could mean for my career. And for yours. If we find something...,Jy weet wat dit kan beteken vir ons loopbane as ons iets vind...,"['bedoel', 'beteken']",beteken
+mean,"It means you're strong, respected in the world.","Dit beteken jy's sterk, en gerespekteerd in die wêreld","['bedoel', 'beteken']",beteken
+mean,They know what it could mean.,Hulle weet wat dit kan beteken.,"['bedoel', 'beteken']",beteken
+mean,Which means they didn't have to go through CityLine's background check.,Dit beteken dat hulle nie deur CityLine werden gekeur.,"['bedoel', 'beteken']",beteken
+leave,Leave the wedding out of it.,Los my troue uit,"['los', 'verlaat', 'vertrek', 'weg']",los
+leave,"All right, I'll leave you two alone so you can talk it over.","Goed, ek los julle alleen, julle kan dit bespreek","['los', 'verlaat', 'vertrek', 'weg']",los
+leave,Leave him alone. What's he done to you ?,"Los hom, hy het niks aan jou gedoen.","['los', 'verlaat', 'vertrek', 'weg']",los
+leave,They left you all alone?,Hulle los jou alleen?,"['los', 'verlaat', 'vertrek', 'weg']",los
+leave,Even if you were too smart to leave any traces.,Selfs al was jy slim genoeg om nie spore te los nie,"['los', 'verlaat', 'vertrek', 'weg']",los
+leave,You see? We don't want to know what they were wearing. We want to know whether the Emperor and the Empress left the opera right away when they saw our people.,"Ons wil nie weet wat hulle gedra het nie, ons wil weet of die Keiser en die Keiserin die opera verlaat het toe hulle ons mense gesien het","['los', 'verlaat', 'vertrek', 'weg']",verlaat
+leave,What changes since you left Paris!,Wat 'n verandering sedert jy Parys verlaat het!,"['los', 'verlaat', 'vertrek', 'weg']",verlaat
+leave,"When you left the Corps, was CGIS the change you were looking for?","As jy die korps verlaat het, was die kuswag die verandering waar jy na gesoek het?","['los', 'verlaat', 'vertrek', 'weg']",verlaat
+leave,"Leave me, Pérol. I must let her state her piece yet again.","Gaan weg, Pérol, ek moet haar toelaat om vry uit te praat","['los', 'verlaat', 'vertrek', 'weg']",weg
+leave,I left in a hurry,Ek is haastig daar weg,"['los', 'verlaat', 'vertrek', 'weg']",weg
+leave,But you are leaving and we are staying here.,"Ja, jy gaan weg, maar ons moet hier bly!","['los', 'verlaat', 'vertrek', 'weg']",weg
+live,- Long live Elisabeth!,- Lank lewe Elisabeth! - Die Keiserin het vir my geglimlag!,"['leef/lewe', 'woon']",leef/lewe
+live,Long live Lagardère!,lank lewe Lagardère!,"['leef/lewe', 'woon']",leef/lewe
+live,- He lives off his rotgut.,"- Hy lewe van sy ""withond""","['leef/lewe', 'woon']",leef/lewe
+live,we'll live.,Saam ons's doen ll lewe.,"['leef/lewe', 'woon']",leef/lewe
+live,They've got everything. Look how we live now!,"Hulle het alles gevat, kyk hoe leef ons nou!","['leef/lewe', 'woon']",leef/lewe
+live,"""Is it better to live on your knees than to die upright? ""","Is it beter om op jou knieë te leef, as om staande te sterf?","['leef/lewe', 'woon']",leef/lewe
+live,I like to live dangerously.,- Ek wil op gevaarlike wyse lewe.,"['leef/lewe', 'woon']",leef/lewe
+live,He has completely distanced himself from us and lives in his college apartment in Munich.,Hy het hom volkome van ons gedistansieer en woon in sy studentewoonstel in Munich,"['leef/lewe', 'woon']",woon
+live,-You live here too?,- Kom jy dan ook hier woon?,"['leef/lewe', 'woon']",woon
+live,"As long as you live here. Dad, are you coming?","So lang jy maar hier woon pappa, kom pa nog?","['leef/lewe', 'woon']",woon
+anything,Do you need anything?,Het jy iets nodig?,"['iets', 'niks']",iets
+anything,"""Don't let him do anything stupid.","""Moenie dat hy iets dom doen nie","['iets', 'niks']",iets
+anything,- Don't do anything stupid.,Jy sal nie iets dom doen nie?,"['iets', 'niks']",iets
+anything,Would you like anything?,Iets vir jou?,"['iets', 'niks']",iets
+anything,- I didn't say anything.,- Ek het niks gesê nie,"['iets', 'niks']",niks
+anything,- So you don't know anything.,"- So, jy weet niks anders nie","['iets', 'niks']",niks
+anything,Have you overlooked anything? Did nothing else happen?,"Is alle detail nou al vertel, het daar niks verder gebeur nie?","['iets', 'niks']",niks
+anything,I didn't say anything disagreeable to your friend.,ek het niks beledigend oor jou vriend gesê nie,"['iets', 'niks']",niks
+anything,"I raised you properly, so don't act as if you didn't learn anything.",Ek het jou 'n goeie opvoeding gegee Nou moet jy nie maak of jy tuis niks geleer het nie Nee,"['iets', 'niks']",niks
+anything,You're not missing anything. School is so boring.,"Jy mis niks nie, skool is so vervelig!","['iets', 'niks']",niks
+man,"Master, Pérol's men are coming along the river.","Meester, Pérol se manne kom met die rivier langs Hulle sal nou hier wees","['manne/mans', 'mense']",manne/mans
+man,They'll find it difficult to cross into Spain. Indeed. Two men with a small child in their arms?,"Ja, twee mans met 'n baba?","['manne/mans', 'mense']",manne/mans
+man,We have to hide our feelings. Men are lucky They aren't restricted,"Ons moet ons gevoelens verberg, julle mans is gelukkig, julle is onbeperk","['manne/mans', 'mense']",manne/mans
+man,This is no time to fight men.,Dit is geen tyd manne te beveg.,"['manne/mans', 'mense']",manne/mans
+man,I'm indebted to these men.,Ek is baie dank verskuldig aan hierdie manne.,"['manne/mans', 'mense']",manne/mans
+man,Your men are on their way.,Jou manne op hul pad.,"['manne/mans', 'mense']",manne/mans
+man,"- A sort of work camp, for young men.",'n Soort werkkamp vir jong mans,"['manne/mans', 'mense']",manne/mans
+man,Then you should tell these men not to come here.,Dan behoort jy te sê dat daardie mans nie hier moet kom nie,"['manne/mans', 'mense']",manne/mans
+man,3000 dead and 2000 men taken prisoner by the English.,"3000 manne dood, en 2000 gevange geneem deur die Engelse","['manne/mans', 'mense']",manne/mans
+man,"Good men, who fought for their country.","Goeie manne, wat wou veg vir hulle vaderland","['manne/mans', 'mense']",manne/mans
+already,Everyone already suspects you're getting engaged to Nene.,Almal vermoed al jy raak verloof aan Nene,"['al', 'reeds']",al
+already,The little one already speaks a few words of Hungarian.,Die kleintjie praat al 'n paar woorde Hongaars,"['al', 'reeds']",al
+already,She's always told me that he's already turned 14.,Sy het altyd vertel dat hy al 14 was.,"['al', 'reeds']",al
+already,I thought you were already going out with someone.,Ek het gedink jy het al iemand,"['al', 'reeds']",al
+already,I did get your letters... but a year after your death. I'd already remarried. A month before.,"Ek het jou briewe gekry, maar 'n jaar na jou dood was ek al 'n maand getroud","['al', 'reeds']",al
+already,- I told Emma it was useless. That you had already decided.,"Ek het Emma al vertel dat dit hopeloos is, dat Pa alreeds anders besluit het","['al', 'reeds']",al
+already,No. Everybody here is already dead.,"Nee, hier is almal al dood.","['al', 'reeds']",al
+already,I explained that already.,Ek het dit al verduidelik,"['al', 'reeds']",al
+already,Except that they already have crowds of files down there.,Behalwe dat dit reeds swart van die vlieë daar is,"['al', 'reeds']",reeds
+nice,How nice of His Majesty to congratulate us by special messenger.,Hoe gaaf van sy Majesteit om ons geluk te wens per spesiale boodskapper,"['gaaf', 'lekker', 'mooi']",gaaf
+nice,That's nice of you.,Dis baie gaaf van jou,"['gaaf', 'lekker', 'mooi']",gaaf
+nice,He's nice. Very nice. What did he do?,"Hy's gaaf, baie gaaf, wat het hy gedoen?","['gaaf', 'lekker', 'mooi']",gaaf
+nice,He's nice. Very nice. What did he do?,"Hy's gaaf, baie gaaf, wat het hy gedoen?","['gaaf', 'lekker', 'mooi']",gaaf
+nice,"Did you have a nice nap, Princess?","Het u lekker geslaap, Prinses?","['gaaf', 'lekker', 'mooi']",lekker
+nice,It's nice here,Dis lekker hier,"['gaaf', 'lekker', 'mooi']",lekker
+nice,Won't that be nice!,Wen's doen t wat lekker wees!,"['gaaf', 'lekker', 'mooi']",lekker
+nice,The Master's nice and plump.,Die Meester is lekker vet,"['gaaf', 'lekker', 'mooi']",lekker
+nice,You should pick out a nice dress for her.,Julle moet 'n mooi rok vir haar kies,"['gaaf', 'lekker', 'mooi']",mooi
+nice,That's good. Write a nice letter to your sister.,"Ja, dit is goed, skryf maar vir jou sussie maar 'n mooi brief","['gaaf', 'lekker', 'mooi']",mooi
+nice,That's not a nice thing to say.,Dis nie 'n mooi ding om te sê nie,"['gaaf', 'lekker', 'mooi']",mooi
+all,Don't be afraid. Everything will be all right.,"Moenie bang wees nie, alles sal regkom","['alles', 'almal']",alles
+all,- It is all over for me.,Alles is verby vir my,"['alles', 'almal']",alles
+all,It's all bunched up,Alles opgebondel!,"['alles', 'almal']",alles
+all,Meaning that dad shouldn't... That was all right.,Dis alles reg,"['alles', 'almal']",alles
+all,Everything was all lined up together.,Alles staan netjies op 'n ry.,"['alles', 'almal']",alles
+all,"I meant, are you all right?",Is alles okay met jou?,"['alles', 'almal']",alles
+all,Introduced? But we were all here!,maar ons was almal hier!,"['alles', 'almal']",almal
+all,We will all go to the next reception and clear up this confusion.,"Ons moet almal na die volgende onthaal gaan, en hierdie deurmekaarspul opklaar","['alles', 'almal']",almal
+all,What were you all saying?,Wat sê julle almal?,"['alles', 'almal']",almal
+all,if you hadn't been there... they'd all be cavorting inside the wolves by now.,as jy hadn's doen t daar... hulle's doen d almal baljaar in die wolwe deur die nou.,"['alles', 'almal']",almal
+all,"So, I ran the sand grains from McBride's hair and nose and ears, and they're not all from","Dus, ek trek die sandkorrels na, wat in die hare, neus en ore van McBride gesit het. Hulle kom nie almal uit Afghanistan of Iran.","['alles', 'almal']",almal
